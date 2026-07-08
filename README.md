@@ -41,5 +41,5 @@ MIGHAN ALM MASTI
 |----|-----|----|
 |برنامه نویس|25|علی|
 
--[X]PYTHON
--[]NODE JS
+-[X] PYTHON
+-[] NODE JS
