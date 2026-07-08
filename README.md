@@ -26,3 +26,5 @@
 ```
 MIGHAN ALM MASTI
 ```
+
+[OPEN-AI](https://openai.com/)
